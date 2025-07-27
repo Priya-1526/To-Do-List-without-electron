@@ -6,7 +6,8 @@ Now lightweight and ready for live demos via GitHub Pages.
 
 
 ## 🔗 Live Demo
-👉 [Live Demo](https://Priya-1526.github.io/To-Do-List_without_electron/)  
+🔗 [Live Demo](https://priya-1526.github.io/To-Do-List-without-electron/)
+
 
 ---
 
