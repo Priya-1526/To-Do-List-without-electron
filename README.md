@@ -6,8 +6,7 @@ Now lightweight and ready for live demos via GitHub Pages.
 
 
 ## 🔗 Live Demo
-👉 [View Live on GitHub Pages](https://your-username.github.io/ToDo-Web/)  
-_(Replace with your actual GitHub Pages URL after deployment)_
+👉 [Live Demo](https://Priya-1526.github.io/To-Do-List_without_electron/)  
 
 ---
 
