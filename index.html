@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>To Do</title>
+</head>
+<body>
+  <div class="mainDiv">
+    <h1>To Do List ✔️</h1>
+
+    <div class="center-image">
+      <img src="./Image/menu.png" alt="Center image">
+    </div>
+
+    <button id="start-btn">Let's Start 😊</button>
+  </div>
+
+  <script>
+    const startBtn = document.getElementById("start-btn");
+    startBtn.addEventListener("click", () => {
+      window.location.href = "dashboard.html"; // ← Standard browser redirect
+    });
+  </script>
+</body>
+</html>
